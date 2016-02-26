@@ -1,0 +1,23 @@
+{
+  "name": "youtrack_slack_bot",
+  "version": "1.0.0",
+  "description": "connect with XMPP to Youtrack and send messages to a Slack channel with a webook",
+  "main": "config.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DmitriyKarpov/youtrack_slack_bot.git"
+  },
+  "author": "DmitriyKarpov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitriyKarpov/youtrack_slack_bot/issues"
+  },
+  "homepage": "https://github.com/DmitriyKarpov/youtrack_slack_bot",
+  "dependencies": {
+    "node-xmpp-client": "2.0.2",
+    "ltx": "2.0.0"
+  }
+}
