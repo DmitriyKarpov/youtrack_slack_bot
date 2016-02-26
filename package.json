@@ -1,6 +1,6 @@
 {
   "name": "youtrack_slack_bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect with XMPP to Youtrack and send messages to a Slack channel with a webook",
   "main": "config.js",
   "scripts": {
